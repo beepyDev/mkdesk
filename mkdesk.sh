@@ -43,4 +43,4 @@ mkdir -p "$TARGET_DIR"
 mv "$FILENAME" "$TARGET_DIR/"
 echo "$FILENAME moved to $TARGET_DIR. It should now appear in your application menu."
 
-echo -e "\e[36mmkdesk by \e]8;;https://github.com/beepyDev\a\e[36mbeepyDev\e[0m\e]8;;\a"
+printf "%b\n" "\e[36mmkdesk by \e]8;;https://github.com/beepyDev\a\e[36mbeepyDev\e[0m\e]8;;\a"
