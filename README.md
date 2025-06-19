@@ -6,7 +6,7 @@
 `mkdesk.sh` creates a desktop-launcher file for any command, moves it to `~/.local/share/applications/`, and makes it executable so it shows up in your application menu right away.
 
 ## 🛠  Requirements
-- Any POSIX-flavored shell (written & tested in `bash`)
+- Any POSIX-flavored shell (tested in `bash` and `zsh`)
 - Linux desktop environment that reads `.desktop` files (GNOME, KDE, XFCE, etc.)
 
 ## 📦 Installation
