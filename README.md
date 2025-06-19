@@ -1,6 +1,6 @@
 # mkdesk
 
-> mkdesk is a quick-and-dirty script to create `.desktop` files for any command.
+> mkdesk is a quick-and-dirty script to create `.desktop` files for any command. I made it because I'm too lazy to write the .desktop files myself.
 
 ## ✨ What it does
 `mkdesk.sh` creates a desktop-launcher file for any command, moves it to `~/.local/share/applications/`, and makes it executable so it shows up in your application menu right away.
